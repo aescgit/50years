@@ -1,0 +1,43 @@
+/* masonry */
+#content_masonry {
+    width: 100%;
+    padding-bottom: 50px;
+}
+.masonry_box {
+    width: 270px;
+    padding: 30px 25px 35px 25px;
+    margin: 0 25px 25px 0;
+    border: solid 1px #cccccc;
+    overflow: auto;
+    background: url(https://50.internat.msu.ru/wp-content/themes/fmsh/images/post_fon.png);
+    box-shadow: 12px 20px 47px -19px #000000;
+}
+.masonry_box img {
+    width: 100%;
+    height: auto;
+}
+.masonry_box h2 {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 18px;
+    font-style: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    padding: 0 0 20px 0;
+    margin: 0;
+    color: #000;
+}
+.masonry_box p {
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    font-style: italic;
+    line-height: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    padding: 0 0 25px 0;
+    color: #615B4D;
+}
+
+

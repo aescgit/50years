@@ -1,0 +1,203 @@
+@charset "utf-8";
+/* CSS Document */
+@media (max-width: 1024px){
+    .go_home {
+        top: 5px;
+        left: -36px;
+    }
+    .go_home img {
+        width: 200px;
+    }
+    .nav {
+        left: 44px;
+        padding: 210px 0 0 0;
+        width: 130px;
+    }
+    .nav ul {
+        padding: 0 0 0 0;
+        margin: 0;
+    }
+    .nav ul li {
+        width: auto;
+        height: 20px;
+    }
+    .nav ul li a {
+        line-height: 20px;
+        font-size: 12px;
+        width: auto;
+    }
+    .social_btn {
+        position: absolute;
+        left: 0;
+        bottom: 5px;
+        width: 130px;
+    }
+    .social_btn a img{
+        width: 25px;
+        height: 25px;
+    }
+    .main_blok {
+        width: 100%;
+        min-width: 980px;
+        margin: 0 auto;
+        padding: 70px 0 0 220px;
+    }
+    .st-accordion ul li > a {
+        font-family: 'PT Sans', sans-serif;
+        font-size: 24px;
+        color: #ffffff;
+        display: block;
+        position: relative;
+        outline: none;
+        line-height: 100px;
+        text-decoration: none;
+        -webkit-transition: color 0.2s ease-in-out;
+        -moz-transition: color 0.2s ease-in-out;
+        -o-transition: color 0.2s ease-in-out;
+        -ms-transition: color 0.2s ease-in-out;
+        transition: color 0.2s ease-in-out;
+    }
+    .st-accordion ul li > a h2 {
+        font-family: 'PT Sans', sans-serif;
+        font-size: 24px;
+        color: #ffffff;
+        font-weight: bold;
+        line-height: 100px;
+    }
+}
+@media (max-width: 1280px){
+    .go_home {
+        top: 5px;
+        left: -36px;
+    }
+    .go_home img {
+        width: 200px;
+    }
+    .nav {
+        left: 44px;
+        padding: 210px 0 0 0;
+        width: 130px;
+    }
+    .nav ul {
+        padding: 0 0 0 0;
+        margin: 0;
+    }
+    .nav ul li {
+        width: auto;
+        height: 20px;
+    }
+    .nav ul li a {
+        line-height: 20px;
+        font-size: 12px;
+        width: auto;
+    }
+    .social_btn {
+        position: absolute;
+        left: 0;
+        bottom: 5px;
+        width: 130px;
+    }
+    .social_btn a img{
+        width: 25px;
+        height: 25px;
+    }
+    .main_blok {
+        width: 100%;
+        min-width: 980px;
+        margin: 0 auto;
+        padding: 70px 0 0 220px;
+    }
+    .st-accordion ul li > a {
+        font-family: 'PT Sans', sans-serif;
+        font-size: 24px;
+        color: #ffffff;
+        display: block;
+        position: relative;
+        outline: none;
+        line-height: 100px;
+        text-decoration: none;
+        -webkit-transition: color 0.2s ease-in-out;
+        -moz-transition: color 0.2s ease-in-out;
+        -o-transition: color 0.2s ease-in-out;
+        -ms-transition: color 0.2s ease-in-out;
+        transition: color 0.2s ease-in-out;
+    }
+    .st-accordion ul li > a h2 {
+        font-family: 'PT Sans', sans-serif;
+        font-size: 24px;
+        color: #ffffff;
+        font-weight: bold;
+        line-height: 100px;
+    }
+}
+@media (max-width: 1366px){
+    .go_home {
+        top: 5px;
+        left: -36px;
+    }
+    .go_home img {
+        width: 200px;
+    }
+    .nav {
+        left: 44px;
+        padding: 210px 0 0 0;
+        width: 130px;
+    }
+    .nav ul {
+        padding: 0 0 0 0;
+        margin: 0;
+    }
+    .nav ul li {
+        width: auto;
+        height: 20px;
+    }
+    .nav ul li a {
+        line-height: 20px;
+        font-size: 12px;
+        width: auto;
+    }
+    .social_btn {
+        position: absolute;
+        left: 0;
+        bottom: 5px;
+        width: 130px;
+    }
+    .social_btn a img{
+        width: 25px;
+        height: 25px;
+    }
+    .main_blok {
+        width: 100%;
+        min-width: 980px;
+        margin: 0 auto;
+        padding: 70px 0 0 220px;
+    }
+    .st-accordion ul li > a {
+        font-family: 'PT Sans', sans-serif;
+        font-size: 24px;
+        color: #ffffff;
+        display: block;
+        position: relative;
+        outline: none;
+        line-height: 100px;
+        text-decoration: none;
+        -webkit-transition: color 0.2s ease-in-out;
+        -moz-transition: color 0.2s ease-in-out;
+        -o-transition: color 0.2s ease-in-out;
+        -ms-transition: color 0.2s ease-in-out;
+        transition: color 0.2s ease-in-out;
+    }
+    .st-accordion ul li > a h2 {
+        font-family: 'PT Sans', sans-serif;
+        font-size: 24px;
+        color: #ffffff;
+        font-weight: bold;
+        line-height: 100px;
+    }
+}
+
+
+
+footer.social_btn {
+    display: none;
+}

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Комментарии: Напишите нам	</title>
+	<atom:link href="https://50.internat.msu.ru/organizatory/feed/" rel="self" type="application/rss+xml" />
+	<link>https://50.internat.msu.ru/</link>
+	<description>50 СУНЦ МГУ</description>
+	<lastBuildDate>Thu, 31 Oct 2019 23:52:24 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>
+		Автор: Redaktor1		</title>
+		<link>https://50.internat.msu.ru/organizatory/#comment-2</link>
+
+		<dc:creator><![CDATA[Redaktor1]]></dc:creator>
+		<pubDate>Sun, 22 Sep 2013 19:08:02 +0000</pubDate>
+		<guid isPermaLink="false">http://artcredo.ru/fmsh/?page_id=8#comment-2</guid>
+
+					<description><![CDATA[При создании и редактировании страницы в рубрикаторе страниц могу выбрать только &quot;организаторы&quot;, остальные рубрики не отражаются, т.е. не могу создать страницу в рубрике &quot;хронограф&quot;.]]></description>
+			<content:encoded><![CDATA[<p>При создании и редактировании страницы в рубрикаторе страниц могу выбрать только &#171;организаторы&#187;, остальные рубрики не отражаются, т.е. не могу создать страницу в рубрике &#171;хронограф&#187;.</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>

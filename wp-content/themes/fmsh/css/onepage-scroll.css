@@ -1,0 +1,84 @@
+body, html {
+    margin: 0;
+    overflow: hidden;
+    -webkit-transition: opacity 400ms;
+    -moz-transition: opacity 400ms;
+    transition: opacity 400ms;
+}
+body, .onepage-wrapper, html {
+    display: block;
+    position: static;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+.onepage-wrapper {
+    width: 100%;
+    height: 100%;
+    display: block;
+    position: relative;
+    padding: 0;
+}
+.onepage-wrapper .section {
+    width: 100%;
+    height: 100%;
+}
+.onepage-pagination {
+    position: absolute;
+    right: 124px;
+    top: 50%;
+    z-index: 5;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(255,255,255,0.8);
+}
+.onepage-pagination li {
+    padding: 0;
+    margin: 20px;
+    width: 90px;
+    height: 33px;
+}
+.onepage-pagination li a {
+    display: block;
+    color: #aa4f2f;
+    height: 33px;
+   
+}
+.onepage-pagination li a:hover {
+    text-decoration: none;
+    color: #FFF;
+    background-color: #aa4f2f;
+}
+.onepage-pagination li:hover {
+
+}
+.onepage-pagination li a:before {
+    position: absolute;
+    font-family: 'PT Sans', sans-serif;
+    line-height: 33px;
+    font-weight: bold;
+    display: block;
+    text-align: center;
+     padding: 0 10px 0 10px;
+}
+.onepage-pagination li a.active:before {
+    text-decoration: none;
+    color: #FFF;
+    background-color: #aa4f2f;
+}
+.onepage-pagination [data-index="1"]::before {
+    content: " 1963-1973 ";
+}
+.onepage-pagination [data-index="2"]::before {
+    content: " 1973-1983 ";
+}
+.onepage-pagination [data-index="3"]::before {
+    content: " 1983-1993 ";
+}
+.onepage-pagination [data-index="4"]::before {
+    content: " 1993-2003 ";
+}
+.onepage-pagination [data-index="5"]::before {
+    content: " 2003-2013 ";
+}
